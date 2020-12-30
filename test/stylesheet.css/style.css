@@ -1,3 +1,4 @@
+
 * {
 	box-sizing: border-box;
 }
@@ -36,9 +37,18 @@ body {
 #h1 { 
 	
 	color: green;
-	margin-left: 160px
+	margin-left: 100px
 
 
 
 
 }
+.s {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+
+
+
+
